@@ -1,0 +1,6 @@
+Goals Abbad Dhia Radithya Aji :
+
+1.) Menguasai HTML, CSS, JavaScript
+2.) Menguasai PHP, OOP PHP
+3.) Menguasai GIT, MVC
+4.) Menguasai Laravel
