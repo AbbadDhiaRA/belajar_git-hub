@@ -4,3 +4,6 @@ Goals Abbad Dhia Radithya Aji :
 2.) Menguasai PHP, OOP PHP
 3.) Menguasai GIT, MVC
 4.) Menguasai Laravel
+5.) Menguasai React
+6.) Menguasai Graph
+7.) Menguasai Node.js
